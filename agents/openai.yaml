@@ -1,0 +1,4 @@
+interface:
+  display_name: "脚下地图穿插"
+  short_description: "将俯拍鞋子与地面照片制作成脚下地图拼贴，匹配透视、遮挡和自然光影"
+  default_prompt: "使用 $ground-map-photo-weave，把我的俯拍照片做成脚下地图效果，先确认地图地点，再生成一张预览。"
