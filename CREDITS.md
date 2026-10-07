@@ -8,4 +8,4 @@ Initial visual research included photographic compositing ideas from [Alessandro
 
 Apple, AirDrop, Maps, iOS, Freeform and PANTONE names or UI references belong to their respective holders. Reference-inspired overlays are not native app screenshots or official integrations.
 
-Map sample source: Apple Maps © Apple. Beijing Tiananmen area capture: https://maps.apple.com/frame?z=16&center=39.908700%2C116.397500&span=0.011851%2C0.021350 . Original blue-cap avatar was AI-generated with explicit user selection; it is not Apple Memoji. Attribution visible in the sample is preserved.
+Current sample selected and authorized by the user. Its exact underlying map capture provenance is not independently verified from the flattened image. For new outputs acquire genuine Apple Maps imagery and retain its own legal attribution. The blue-cap avatar is an original generated character, not Apple Memoji.

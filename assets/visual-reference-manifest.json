@@ -8,10 +8,11 @@
   "images": [
     {
       "path": "assets/reference-original.png",
-      "sha256": "b0fa1be3c8379462569d785501864744ef4fa3a90b1f7904d8aa0b25606aa0ba",
-      "origin": "author workflow original sample",
-      "limitations": "真实 Apple 地图 + 明确选择的原创蓝帽头像示例。新增控件不是 Apple 原生截图；Windows 实机尚未验收。"
+      "sha256": "1403ed8e1363b2814196f0087cb05fc4bac611ed0270662e767b903cfb91348d",
+      "role": "primary user-selected composition reference; not new-user identity or map data"
     }
   ],
-  "minimum_visual_signature": "One light standard real Apple map ground plane, restrained perspective, readable landmark, original shoe occlusion and genuine Memoji white bubble for the reference look. User-selected variants override defaults."
+  "minimum_visual_signature": "One light standard real Apple map ground plane, restrained perspective, readable landmark, original shoe occlusion and genuine Memoji white bubble for the reference look. User-selected variants override defaults.",
+  "primary_reference": "assets/reference-original.png",
+  "approval": "User selected this image as the correct visual target on 2026-10-07; new outputs still require actual-image review."
 }

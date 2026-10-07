@@ -15,3 +15,7 @@ In a Chengdu IFS preview, a cropped Apple web screenshot was uniformly prepared 
 
 ## Portability and delivery
 Package the actual visual anchor, provenance for reusable avatar assets, applicable acquisition methods and quality checks. Do not rely on chat history or temporary clipboard paths. A successful asset acquisition or package validator is not proof of human aesthetic approval. Finish one composed preview after acquisition; distinguish unavailable assets, preview status and verified source fidelity.
+
+## Current acceptance gate
+
+Read [shoe-map-quality.md](shoe-map-quality.md): distinct panel-size and capture-zoom checks, original shoe matte inspection, visible directional cast/contact shadows, and executable map proportion checks are required before presenting the result.

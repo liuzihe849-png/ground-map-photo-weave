@@ -59,3 +59,7 @@ Deliver the preview and brief findings; structural validation is not human aesth
 ## Author and public reference
 
 Created and maintained by **理智画** (GitHub: [liuzihe849-png](https://github.com/liuzihe849-png)). Inspect [the original sample](assets/reference-original.png) and read [sample scope and limitations](references/public-sample.md). The sample is a visual aid, not a user identity or proof of exact fidelity. Do not copy sample-specific defects into new outputs.
+
+## Mandatory shoe/map quality gate
+
+The current primary reference is [the user-selected clear-street sample](assets/reference-original.png). Before production read [shoe/map quality gate](references/shoe-map-quality.md). Use uniform scale + rotation for near-top-down photos, not an arbitrary trapezoid; run `scripts/check_map_geometry.py` on the actual crop and placement. Make the surface large enough and independently recapture at a readable street zoom. Inspect both original shoe outlines enlarged over light/dark backgrounds, repair coarse masks, and add both visible directional shoe cast shadows and smaller sole contact shadows clipped to the map. Inspect real output at final size; geometry or protected interior pixel success cannot replace edge/shadow/label approval.
